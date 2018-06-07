@@ -1,0 +1,23 @@
+<style>
+.post-date{
+	background:#f4f4f4;
+	padding:4px;
+	margin:3px 0;
+	display: block;
+}
+.navbar{
+  background:#2998E4;
+  
+}
+.nav-link{
+  color:white;
+  font-size:1.3em;
+}
+  .navbar-brand{
+    color:black;
+    font-size:2em;
+  }
+  .post-thumb{
+    width:100%;
+  }
+   </style>
